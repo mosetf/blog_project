@@ -23,5 +23,5 @@ Ensure you have the following installed on your machine:
 
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/blog_project.git
+git clone https://github.com/mosetf/blog_project.git
 cd blog_project
